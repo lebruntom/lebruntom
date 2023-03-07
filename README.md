@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Tom Lebrun</h1>
 <h3 align="center">A passionate fullstack developer from France</h3>
 
-- I’m currently learning **React**
+- I’m currently learning **Nextjs**
 
-- 👨‍💻 All of my projects are available at [https://tom-lebrun.fr/](https://tom-lebrun.fr/)
+- 👨‍💻 All of my projects are available at [https://tomlebrun.netlify.app/](https://tomlebrun.netlify.app/)
 
 - 📫 How to reach me **tomlebrun27@gmail.com**
 
